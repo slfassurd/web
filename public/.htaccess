@@ -6,3 +6,7 @@
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteRule  ^(.+)$ index.php?url=$1 [QSA,L]
 </IfModule>
+
+#################################################
+##   File for my local machine on the website  ##
+## change the RewriteBase to /public           ##

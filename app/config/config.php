@@ -8,7 +8,9 @@
   // App Root
   define('APPROOT', dirname(dirname(__FILE__)));
   // URL Root (eg. http://myapp.com or http://localhost/myapp)
-  define('URLROOT', 'http://michaelroseswebdevelopment.com');
+  define('URLROOT', 'http://localhost/web.com');
   // Site Name
   define('SITENAME', 'Web Development');
   
+
+  // This file is for my local machine

@@ -9,3 +9,7 @@
 ##   htaccess files to ignore  ##
 *.htaccess
 
+#################################
+##   Configuration files       ##
+
+/config/config.php
