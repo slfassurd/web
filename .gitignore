@@ -1,0 +1,11 @@
+#################################
+##   Node Modules to ignore    ##
+
+*/node_modules
+#################################
+
+
+#################################
+##   htaccess files to ignore  ##
+*.htaccess
+
