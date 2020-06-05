@@ -1,7 +1,7 @@
 <?php
   class Pages extends Controller{
     public function __construct(){
-     
+    
     }
 
     // Load Homepage
